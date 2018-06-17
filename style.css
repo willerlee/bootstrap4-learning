@@ -1,0 +1,21 @@
+.container {
+  background: #054bd1;
+  height: 100vh;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container .row {
+  background-color: #13e05b;
+  height: 300;
+  border-bottom: 1px solid #dfc014;
+}
+
+.container .row > div > span {
+  display: block;
+  background: #487bdd;
+  color: white;
+  font-size: 32px;
+  padding: 8px;
+  border: 1px solid #021d51;
+}
