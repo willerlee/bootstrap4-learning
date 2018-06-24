@@ -7,6 +7,7 @@
     "start": "./node_modules/.bin/browser-sync start --server --no-noify --files='index.html, *.css, *.js'"
   },
   "dependencies": {
-    "browser-sync": "^2.24.4"
+    "browser-sync": "^2.24.4",
+    "debug": "^3.1.0"
   }
 }
